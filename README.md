@@ -1,18 +1,18 @@
-<DOCTYPEhtml>
-<htmllang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <metacharset="UTF-8">
-    <metaname="viewport" content="width=device-width, initial-scale=1.0">
-    <scriptsrc="https://cdn.tailwindcss.com"></script>
-    <linkrel="preconnect" href="https://fonts.googleapis.com">
-    <linkrel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <linkhref="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&display=swap" rel="stylesheet">
-    <scriptsrc="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.3/lottie_svg.min.js"></script>
-    <title>Gift for my baby</title>
-    <linkrel="icon" href="icons/tab-icon.png"/>
-    <linkrel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.3/lottie_svg.min.js"></script>
+    <title>Gift for my Bebita</title>
+    <link rel="icon" href="icons/tab-icon.png"/>
+    <link rel="stylesheet" href="./style.css">
 </head>
-<bodystyle="font-family: 'Comic Neue';" class="relative">
+<body style="font-family: 'Comic Neue';" class="relative">
 
     <!-- MUSIC PLAYER -->
     <div class="fixed left-6 bottom-6 z-10">
@@ -46,7 +46,7 @@
         </div>
     </div>
 
-    <!--BACKGROUND-->
+    <!-- BACKGROUND -->
     <div class="background">
         <div class="one">
             <img src="img/back.jpg" alt="">
@@ -55,19 +55,9 @@
                     <div class="envelope">
                         <div class="letter">
                             <div class="text">
-                             <strong style="font-size: .89rem;">Dear my love,</strong>
+                                <strong style="font-size: .89rem;">Dear My Bebita,</strong>
                                 <p style="text-indent: 15px;">
-                                hey baby, I know I say this a lot, pero I will never get tired of rememinding you how much you mean to me 
-and how much I love you. Thank you for giving me the best life Ive ever had, thank you for making my life
-so much better. for making me experiece a lot of things, giving me a chance to heal my inner child. For letting
-me explore to a lot of things, that I never got to experience before. Please know that you are the only my source
-of happiness, My life is peaceful whenever I'm with you. Thank you for teaching me how to be inedependent even 
-you always get annoyed because of me being a coward, I hope you won't get tired of it hehehe. Baby, I hope you
-inspire me to a lot of things,hehehehe. I LOVE YOU MY LOVELOVEE!!PLEASE REMEMER THIS IF YOU EVER FEEL THAT YOU'RE
-ALONE OR FELT SAD, YOU'LL ALWAYS BE LOVED BY ME AND I AM ALWAYS HERE FOR YOU, I AM ALWAYS FREE FOR YOU WHENEVER
-YOU NEED ME, OR A CRYING SHOULDER AND EVERYTHING, I'LL BE THERE FOR YOU EHEHE NOT BECAUSE I'M YOUR GIRLFRIEND, 
-BECAUSE I LOVE YOU, I don't want you to feel that baby. I want you to be happy as I am whenever I'm with you.
-I appreciate you a lot lot, my love. I love you so much, and I will love you endlessly. 
+                                    Happy Valentine's Day my Love, Thank you for being the most incredible partner anyone could ever ask for. Your kindness, your strength, and your unwavering support mean everything to me. I love you more than words can express, today, every day and forever.
                                 </p>
                                 <p class="love">I LOVE YOU SO MUCH</p>
                                 <div class="pana">
@@ -107,7 +97,7 @@ I appreciate you a lot lot, my love. I love you so much, and I will love you end
                         <img class="w-5" src="icons/back.svg" alt="">
                     </div>
                     <div>
-                        <h1 class="font-extrabold text-lg">My love Escote</h1>
+                        <h1 class="font-extrabold text-lg">Bebita Chiquitita</h1>
                     </div>
                     <div>
                         <img class="w-6" src="icons/x.svg">
@@ -125,7 +115,31 @@ I appreciate you a lot lot, my love. I love you so much, and I will love you end
                     </div>
                     <div class="absolute top-3 left-3 w-10">
                         <img class="-rotate-12 w-full" src="icons/herbleh.svg" alt="">
-                   </div>
+                    </div>
+                    <div class="text-center py-5">
+                        <h1 class="font-extrabold text-5xl">About Lorenita</h1>
+                        <p class="text-base">Cutieta/Pogita/Wifeyta</p>
+                    </div>
+                </div>
+                <!-- IMAGES -->
+                <div class="flex justify-center">
+                    <div class="w-44 flex justify-center py-5 gap-3">
+                        <img class="w-40" src="img/Bebita/1.jpeg" alt="">
+                        <img class="w-40" src="img/Bebita/2.jpeg" alt="">
+                        <img class="w-40" src="img/Bebita/3.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>  
+    </div>
+    <!-- SECOND CARD -->
+    <div class="w-full h-[100vh] z-0 relative ">
+        <!-- BACKGROUND -->
+        <img class="w-full h-full object-cover" src="img/back.jpg" alt="">
+        <!-- SECOND PAGE -->
+        <div class="absolute top-0 h-full flex items-center justify-center flex-col w-full">
+            <!-- SECOND CARD -->
+            <div id="window" class="bg-neutral-100 relative shadow-md hover:shadow-xl duration-150 hover:scale-105 rounded-md w-[34rem] flex justify-center flex-col border-2 border-black">
                 <!-- GIFS -->
                 <div id="gif" class="absolute -top-20 -left-60 w-40">
                     <img class="w-full -rotate-6" src="https://media.tenor.com/ULt1QoO_tc0AAAAj/cat-vibe-vibe-cat.gif" alt="">
@@ -134,4 +148,105 @@ I appreciate you a lot lot, my love. I love you so much, and I will love you end
                     <img class="w-full -rotate-6" src="https://media.tenor.com/u56nhKZD24AAAAAi/catkiss-cat.gif" alt="">
                 </div>
                 <div id="gif" class="absolute -top-20 -right-64 w-44">
-                    <img class="w-full rotate-6" src="https://media.tenor.com/cqQ9eq9xIrgAAA
+                    <img class="w-full rotate-6" src="https://media.tenor.com/cqQ9eq9xIrgAAAAi/cat.gif" alt="">
+                </div>
+                <div id="gif" class="absolute -bottom-20 -right-64 w-40">
+                    <img class="w-full rotate-6" src="https://media.tenor.com/SI5tOTnHS34AAAAi/verycat-twitch-cat-twitch-emote.gif" alt="">
+                </div>
+                <div class="flex items-center px-1 py-1 justify-between w-full border-b-2 border-black">
+                    <div>
+                        <img class="w-5" src="icons/back.svg" alt="">
+                    </div>
+                    <div>
+                        <h1 class="font-extrabold text-lg">Bebito Chiquitito</h1>
+                    </div>
+                    <div>
+                        <img class="w-6" src="icons/x.svg" alt="">
+                    </div>
+                </div>
+                <div class="relative border-b-2 border-black">
+                    <div class="absolute bottom-3 left-12 w-11">
+                        <img class="rotate-12 w-full" src="icons/gaming.svg" alt="">
+                    </div>
+                    <div class="absolute top-3 right-3 w-12">
+                        <img class="rotate-12 w-full" src="icons/cat.svg" alt="">
+                    </div>
+                    <div class="absolute bottom-2 right-14 w-12">
+                        <img class="-rotate-12 w-full" src="icons/cool.svg" alt="">
+                    </div>
+                    <div class="absolute top-3 left-3 w-10">
+                        <img class="-rotate-12 w-full" src="icons/hisbleh.svg" alt="">
+                    </div>
+                    <div class="text-center py-5">
+                        <h1 class="font-extrabold text-5xl">About Marquito</h1>
+                        <p class="text-base">Cutieto/Pogito/Hubbyto</p>
+                    </div>
+                </div>
+                <!-- IMAGES -->
+                <div class="flex justify-center">
+                    <div class="w-44 flex justify-center py-5 gap-3">
+                        <img class="w-40" src="img/Bebita/1.1.jpeg" alt="">
+                        <img class="w-40 object-cover" src="img/Bebita/5.jpg" alt="">
+                        <img class="w-40 object-cover" src="img/Bebita/2.2.jpeg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>  
+    </div>
+    <!-- FOURTH -->
+    <div class="w-full h-[100vh] z-0 relative">
+        <!-- BACKGROUND -->
+        <img class="w-full h-full object-cover" src="img/back.jpg" alt="">
+        <div class="absolute top-0 w-full h-full flex justify-center items-center">
+            <!-- COUNTER -->
+            <div class="flex bg-neutral-100 gap-5 relative border-2 z-10 border-black flex-col px-5 pb-3 shadow-md pt-9 rounded-md">
+                <!-- GIFS -->
+                <div class="absolute top-1 right-1 w-7">
+                    <img class="w-full" src="icons/heart.svg" alt="">
+                </div>
+                <div class="absolute -top-20 -left-56 w-44">
+                    <img class="w-full -rotate-6" src="https://media.tenor.com/dg7Th23TzFUAAAAi/cat_-vodk.gif" alt="">
+                </div>
+                <div class="absolute -bottom-3 -right-52 w-44">
+                    <img class="w-full" src="https://media.tenor.com/LrSL7XDKVbgAAAAi/peachcat-cat.gif" alt="">
+                </div>
+                <div class="absolute top-[-8rem] z-0 right-28 w-36">
+                    <img class="w-full" src="https://media.tenor.com/A5VhCveZ_ygAAAAi/peach-and-goma-peach-goma.gif" alt="">
+                </div>
+                <div class="absolute -bottom-48 z-0 left-16 w-40">
+                    <img class="w-full" src="https://media.tenor.com/ewJrc9fZeaQAAAAi/prots-masaj.gif" alt="">
+                </div>
+
+                <!-- DATE COUNTER -->
+                <div class="flex gap-5" id="myCountdown">
+                    <div class="bg-transparent border-2 border-black rounded-md w-40 h-52 flex justify-center items-center flex-col gap-10">
+                        <h1 id="years" class="text-6xl font-bold">0</h1>
+                        <p class="font-bold text-xl text-red-700">Year</p>
+                    </div>
+                    <div class="bg-transparent border-2 border-black rounded-md w-40 h-52 flex justify-center items-center flex-col gap-10">
+                        <h1 id="months" class="text-6xl font-bold">0</h1>
+                        <p class="font-bold text-xl text-red-700">Months</p>
+                    </div>
+                    <div class="bg-transparent border-2 border-black rounded-md w-40 h-52 flex justify-center items-center flex-col gap-10">
+                        <h1 id="days" class="text-6xl font-bold">0</h1>
+                        <p class="font-bold text-xl text-red-700">Days</p>
+                    </div>
+                 
+                </div>
+                <h1 class="text-center font-bold text-base">Since October 13, 2022</h1>
+            </div>
+
+
+        </div>
+    </div>
+    <script>
+        const envelope = document.querySelector('.envelope-wrapper');
+        envelope.addEventListener('click', () => {
+            envelope.classList.toggle('flap');
+            envelope.classList.toggle('open');
+        });
+    </script>
+    
+    <script src="app.js"></script> 
+</body>
+</html>
