@@ -1,18 +1,18 @@
-<DOCTYPE html>
-<html lang="en">
+<DOCTYPEhtml>
+<htmllang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&display=swap" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.3/lottie_svg.min.js"></script>
-    <title>Gift for my Bebita</title>
-    <link rel="icon" href="icons/tab-icon.png"/>
-    <link rel="stylesheet" href="./style.css">
+    <metacharset="UTF-8">
+    <metaname="viewport" content="width=device-width, initial-scale=1.0">
+    <scriptsrc="https://cdn.tailwindcss.com"></script>
+    <linkrel="preconnect" href="https://fonts.googleapis.com">
+    <linkrel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <linkhref="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;400;700&display=swap" rel="stylesheet">
+    <scriptsrc="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.3/lottie_svg.min.js"></script>
+    <title>Gift for my baby</title>
+    <linkrel="icon" href="icons/tab-icon.png"/>
+    <linkrel="stylesheet" href="./style.css">
 </head>
-<body style="font-family: 'Comic Neue';" class="relative">
+<bodystyle="font-family: 'Comic Neue';" class="relative">
 
     <!-- MUSIC PLAYER -->
     <div class="fixed left-6 bottom-6 z-10">
@@ -46,7 +46,7 @@
         </div>
     </div>
 
-    <!-- BACKGROUND -->
+    <!--BACKGROUND-->
     <div class="background">
         <div class="one">
             <img src="img/back.jpg" alt="">
@@ -57,7 +57,7 @@
                             <div class="text">
                              <strong style="font-size: .89rem;">Dear my love,</strong>
                                 <p style="text-indent: 15px;">
-                                    hey baby, I know I say this a lot, pero I will never get tired of rememinding you how much you mean to me 
+                                hey baby, I know I say this a lot, pero I will never get tired of rememinding you how much you mean to me 
 and how much I love you. Thank you for giving me the best life Ive ever had, thank you for making my life
 so much better. for making me experiece a lot of things, giving me a chance to heal my inner child. For letting
 me explore to a lot of things, that I never got to experience before. Please know that you are the only my source
